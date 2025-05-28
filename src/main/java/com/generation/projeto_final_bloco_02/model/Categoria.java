@@ -52,7 +52,7 @@ public class Categoria {
 	public List<Produto> getProduto() {
 		return produto;
 	}
-
+ 
 	public void setProduto(List<Produto> produto) {
 		this.produto = produto;
 	}
